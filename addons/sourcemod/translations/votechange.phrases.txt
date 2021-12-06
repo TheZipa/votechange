@@ -1,0 +1,120 @@
+"Phrases"
+{
+	"Votechange Menu"
+	{
+		"en"	"Select the vote"
+		"ru"	"Выберите голосование"
+	}
+	"Votechange Management"
+	{
+		"en"	"Votechange Management"
+		"ru"	"Управление Votechange"
+	}
+	"Clear List"
+	{
+		"en"	"Clear list"
+		"ru"	"Очистить список"
+	}
+	"Clear Agreement"
+	{
+		"en"	"Clear the results of the selected survey?"
+		"ru"	"Очистить результаты выбранного опроса?"
+	}
+	"Clear All"
+	{
+		"en"	"Clear all the results of the Votechange?"
+		"ru"	"Очистить все результаты Votechange?"
+	}
+	"Agree"
+	{
+		"en"	"Yes"
+		"ru"	"Да"
+	}
+	"Disagree"
+	{
+		"en"	"No"
+		"ru"	"Нет"
+	}
+	"Results"
+	{
+		"en"	"Results"
+		"ru"	"Результаты"
+	}
+	"No Results"
+	{
+		"en"	"No results"
+		"ru"	"Нет результатов"
+	}
+	"List of Votes"
+	{
+		"en"	"List of votes"
+		"ru"	"Список проголосовавших"
+	}
+	"Selected Answer"
+	{
+		"#format"	"{1:s}"
+		"en"	"{1} [Selected]"
+		"ru"	"{1} [Выбрано]"
+	}
+	"People"
+	{
+		"#format"	"{1:s},{2:i}"
+		"en"	"{1} - {2} people"
+		"ru"	"{1} - {2} человек(а)"
+	}
+	"Clear All"
+	{
+		"en"	"Clear all results"
+		"ru"	"Очистить все результаты"
+	}
+	"Votes are Empty"
+	{
+		"en"	"The list of votes is empty."
+		"ru"	"Список проголосовавших пуст."
+	}
+	"Send To Player"
+	{
+		"en"	"Send to Player"
+		"ru"	"Отправить игроку"
+	}
+	"Select Player"
+	{
+		"en"	"Select Player"
+		"ru"	"Выберите игрока"
+	}
+	"Push Usage"
+	{
+		"en"	"Usage: sm_push_votechange <#id|nickname>"
+		"ru"	"Использование: sm_push_votechange <#id|ник>"
+	}
+	"Vote is Cleared"
+	{
+		"en"	"[{LIGHTPURPLE}VoteChange{DEFAULT}]: The results of the selected survey have been cleared successfully."
+		"ru"	"[{LIGHTPURPLE}VoteChange{DEFAULT}]: Результаты выбранного опроса успешно очищены."
+	}
+	"All Votes are Cleared"
+	{
+		"en"	"[{LIGHTPURPLE}VoteChange{DEFAULT}]: All survey results were successfully cleared."
+		"ru"	"[{LIGHTPURPLE}VoteChange{DEFAULT}]: Все результаты опросов были успешно очищены."
+	}
+	"Successfully Voted"
+	{
+		"en"	"[{LIGHTPURPLE}VoteChange{DEFAULT}]: You have successfully voted. Thank you for your attention!"
+		"ru"	"[{LIGHTPURPLE}VoteChange{DEFAULT}]: Вы успешно проголосовали. Благодарим за внимание!"
+	}
+	"Vote is Updated"
+	{
+		"en"	"[{LIGHTPURPLE}VoteChange{DEFAULT}]: Your vote has been successfully updated. Thank you for your attention!"
+		"ru"	"[{LIGHTPURPLE}VoteChange{DEFAULT}]: Ваш голос успешно обновлён. Благодарим за внимание!"
+	}
+	"Votechange All"
+	{
+		"en"	"[{LIGHTPURPLE}VoteChange{DEFAULT}]: The server is called !votechange for all players."
+		"ru"	"[{LIGHTPURPLE}VoteChange{DEFAULT}]: Сервер вызвал !votechange для всех игроков."
+	}
+	"Votechange Pushed"
+	{
+		"en"	"[{LIGHTPURPLE}VoteChange{DEFAULT}]: Admin has called up the !votechange menu for you."
+		"ru"	"[{LIGHTPURPLE}VoteChange{DEFAULT}]: Администратор вызвал вам меню опросов !votechange."
+	}
+}
